@@ -1,7 +1,7 @@
-# Calcul Haute Performance et programmation GPU avec OpenCL  
+# Calcul Haute Performance et traitement d'images avec OpenCL  
 Réalisé par EL AMRANI-ZERRIFI Hamza et SCHOONAERT Bastien, avec l'aide de Mr GAVET Yann.
 Supervisé par Mr AOUFI Asdin.
-Un compte-rendu au format PDF adjoint à cette archive explicite les fonctions filtres étudiées et fait part de quelques observations quant à l'optimisation du calcul parallèle.
+Un compte-rendu au format PDF adjoint à cette archive explicite les fonctions filtres étudiées et fait part de quelques observations.
 
 ## Compilation du code C++ et programmation de la convolution
 
