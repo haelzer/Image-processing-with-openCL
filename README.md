@@ -1,4 +1,5 @@
-# Calcul Haute Performance et filtres d'images avec OpenCL  
+# Calcul Haute Performance et filtres d'images avec OpenCL 
+
 Réalisé par EL AMRANI-ZERRIFI Hamza et SCHOONAERT Bastien, avec l'aide de Mr GAVET Yann.
 Supervisé par Mr AOUFI Asdin.
 Un compte-rendu au format PDF adjoint à cette archive explicite les fonctions filtres étudiées et fait part de quelques observations.
