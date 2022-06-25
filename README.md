@@ -35,7 +35,7 @@ Pour le filtre gaussien :
 ./imageCopyFilter n sigma -k gauss
 
 Les paramètres:
-n désigne l'entier taille de la fenêtre
+n désigne l'entier taille de la fenêtre.
 sigma désigne le paramètre sigma dans la formule de la fonction gaussienne. 
 Il ne faut pas saisir de paramètres sigma lors de l'utilisation du moyenneur.
 ```
