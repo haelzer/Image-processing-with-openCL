@@ -5,7 +5,6 @@ Supervisé par Mr AOUFI Asdin.
 Un compte-rendu au format PDF adjoint à cette archive explicite les fonctions filtres étudiées et fait part de quelques observations.
 
 ## Compilation du code C++ et programmation de la convolution
-
 ### Chargement des modules
 
 ```shell
